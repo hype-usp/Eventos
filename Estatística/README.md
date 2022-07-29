@@ -5,10 +5,10 @@ Data e horário
 
 Temas:
 
-- Média, moda e mediana, Desvio padrão (estatística básica) - Conteúdos: Gabriel Melo e Vinicius Matias - Ministrante: Gabriel Melo
+- Média, moda e mediana, Desvio padrão (estatística básica) e amostragem - Conteúdos: Gabriel Melo e Guilherme Lee - Ministrante: Gabriel Melo
 - Probabilidade -> Ideia, distribuições de dados, comentar sobre probabilidade condicional - Conteúdos: Caio Vinícius, Vinicius Matias - Ministrante: Caio Vinícius
-- Análise de dados (boxplot, histograma, gráfico de barras, scatterplot) - Conteúdos: Pedro Palazzi e Gabriel Melo - Ministrante: Gabriel Melo
-- Interpretação com estatística: Interpretação com base nos resultados anteriores, mas falando mais da interpretação estatística (usando gráficos, conceitos de probabilidade e análises descritivas). - Conteúdos: Caio Vinicius e Vinicius Matias - Ministrante: Vinicius Matias
+- Análise de dados (boxplot, histograma, gráfico de barras, scatterplot) - Conteúdos: Pedro Palazzi, Gabriel Melo e Guilherme Lee - Ministrante: Guilherme Lee
+- Interpretação com estatística: Inferência, Interpretação com base nos resultados anteriores, mas falando mais da interpretação estatística (usando gráficos, conceitos de probabilidade e análises descritivas). - Conteúdos: Caio Vinicius e Vinicius Matias - Ministrante: Vinicius Matias
 
 
 Responsáveis
@@ -17,3 +17,4 @@ Responsáveis
 - [Caio Vinícius](https://github.com/Caio5072)
 - [Gabriel Melo](https://github.com/gabrielMelo42)
 - [Pedro Palazzi](https://github.com/RidenLiliith)
+- [Guilherme Lee](https://github.com/narcisoleedev)
