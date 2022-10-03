@@ -1,21 +1,9 @@
-# Workshops de funcionamento de Modelos de Machine Learning (aplicado)
+# Curso de Machine Learning
 
-- Intro de ML - **Laís e Gabriel Melo**
-  -  Supervisionado e não supervisionado
-  -  Classificação e regressão
-  -  Overfitting e underfitting
-  -  Preprocessamento
-  -  Treino, teste e validação (cross-validation)
-  -  Métricas (pra classificação e regressão)
-  -  Aplicar com Regressão Logística
-  -  HYPErparâmetros
-  -  Sobre a escolha de datasets (e escolher 1 para classificação e 1 para regressão)
-- Regressão Linear e Regressão Logística - **Vinicius e Caio Silva**
-- Naive Bayes (probabilidade) e KNN (distância) - **Caio Silva e Vinicius**
-- Árvores de Decisão + Random Forest + Gradient Boosting - **Gabriel Melo e Gustavo**
-- Redes Neurais (MLP) - **Laís e Gustavo**
+Material do curso de Machine Learning aplicado.
 
-1 hora por workshop
+**Descrição do curso**:
+Neste curso introduziremos o que é aprendizado de máquina, quais são as áreas de estudo e o que já é possível fazer de maneira rápida tendo os conhecimentos fundamentais da área. Utilizamos a biblioteca scikit-learn / sklearn para tal e apresentamos as ferramentas necessárias para iniciar os trabalhos em projetos da área com foco nas implementações da biblioteca. Apresentamos o funcionamento de 6 modelos pela biblioteca focando na intuição por trás de cada um e como eles "aprendem" uma distribuição de dados de maneiras diferentes, e como melhorar o desempenho deles. Também abordamos problemas comuns como sobreajuste, e necessidades como a identificação do tipo do seu problema e como buscar as técnicas ideais para eles. Ao fim realizamos um projeto de ponta-a-ponta para resumir os conhecimentos do curso.
 
 Responsáveis
 
